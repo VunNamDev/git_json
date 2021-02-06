@@ -9,5 +9,5 @@
           "inter": "49977a883b5f5d0c",
           "native": "756248681915861_771688207038575s"
         },
-        "time": {"inter": 30000, "native": 30000, "banner": 30000}
+        "time": {"inter": 30000, "native": 30000, "banner": 30000, "nativeLayout":30000}
 }
